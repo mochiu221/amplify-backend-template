@@ -9,7 +9,7 @@ const backend = defineBackend({
 
 backend.addOutput({
   storage: {
-    aws_region: "us-east-1",
-    bucket_name: "test-mediabucket"
+    aws_region: "ap-northeast-1",
+    bucket_name: "test-mediabucket2"
   },
 });
